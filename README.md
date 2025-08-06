@@ -77,6 +77,6 @@ Direct developer email support can be purchased through a [Support Plan][4] or b
 © LightningChart Ltd 2009-2022. All rights reserved.
 
 
-[3D chart]: https://lightningchart.com/js-charts/api-documentation/v7.1.0/classes/Chart3D.html
-[3D point series]: https://lightningchart.com/js-charts/api-documentation/v7.1.0/classes/PointSeries3D.html
+[3D chart]: https://lightningchart.com/js-charts/api-documentation/v8.0.0/classes/Chart3D.html
+[3D point series]: https://lightningchart.com/js-charts/api-documentation/v8.0.0/classes/PointSeries3D.html
 

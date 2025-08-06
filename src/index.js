@@ -47,16 +47,6 @@ pointSeriesOtherCoords.setPointStyle(
     }),
 )
 
-// Add LegendBox to chart.
-chart3D
-    .addLegendBox()
-    // Dispose example UI elements automatically if they take too much space. This is to avoid bad UI on mobile / etc. devices.
-    .setAutoDispose({
-        type: 'max-width',
-        maxWidth: 0.3,
-    })
-    .add(chart3D)
-
 // Generate heatmap data for depicting amount of scattered points along the XZ plane.
 let totalPointsAmount = 0
 const rows = 40
